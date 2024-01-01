@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/capi/static/css/main.e6c13ad2.css",
+    "main.js": "/capi/static/js/main.1b6ede2c.js",
+    "static/js/787.0c99e86e.chunk.js": "/capi/static/js/787.0c99e86e.chunk.js",
+    "index.html": "/capi/index.html",
+    "main.e6c13ad2.css.map": "/capi/static/css/main.e6c13ad2.css.map",
+    "main.1b6ede2c.js.map": "/capi/static/js/main.1b6ede2c.js.map",
+    "787.0c99e86e.chunk.js.map": "/capi/static/js/787.0c99e86e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.1b6ede2c.js"
+  ]
+}
