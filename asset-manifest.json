@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/capi/static/css/main.f96f07a4.css",
-    "main.js": "/capi/static/js/main.1b6ede2c.js",
+    "main.js": "/capi/static/js/main.8d06bd62.js",
     "static/js/787.0c99e86e.chunk.js": "/capi/static/js/787.0c99e86e.chunk.js",
     "index.html": "/capi/index.html",
     "main.f96f07a4.css.map": "/capi/static/css/main.f96f07a4.css.map",
-    "main.1b6ede2c.js.map": "/capi/static/js/main.1b6ede2c.js.map",
+    "main.8d06bd62.js.map": "/capi/static/js/main.8d06bd62.js.map",
     "787.0c99e86e.chunk.js.map": "/capi/static/js/787.0c99e86e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f96f07a4.css",
-    "static/js/main.1b6ede2c.js"
+    "static/js/main.8d06bd62.js"
   ]
 }
